@@ -1,0 +1,26 @@
+{
+    "name": "Dyslexia Font",
+    "description": "I change fonts on the website you visit to a font easier to read for dyslexic people",
+    "version": "1.0",
+    "manifest_version": 3,
+    "background": {
+        "service_worker": "background.js"
+      },
+    "permissions":["storage", "activeTab", "scripting"],
+
+    "action": {
+        "default_popup": "popup.html",
+        "default_icon": {
+            "16": "/images/pic16.jpeg",
+            "32": "/images/pic32.jpeg",
+            "48": "/images/pic48.jpeg",
+            "128": "/images/pic128.jpeg"
+          }
+      }, 
+    "icons": {
+        "16": "/images/pic16.jpeg",
+        "32": "/images/pic32.jpeg",
+        "48": "/images/pic48.jpeg",
+        "128": "/images/pic128.jpeg"
+      }
+  }
