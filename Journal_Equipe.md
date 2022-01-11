@@ -9,4 +9,16 @@ Fait ajd :
 
 Demain : 
 - enrichissement de l'extension avec plusieurs propositions de type 
-- commencer extension images  
+- commencer extension images   
+
+
+11/02/2022
+fait ajd:
+- ajout fonction change police 
+- fais extension image 
+- etude de ressource utile pour la suite 
+- recherche API
+
+Demain : 
+point repartition de tach du groupe 
+definir ce qu'il ya réellement faire
