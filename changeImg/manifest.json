@@ -1,0 +1,10 @@
+{
+    "name": "ChangeImg",
+    "description" : "Je remplace toutes les images par des huiles smith",
+    "version": "1.0",
+    "manifest_version": 3,
+    "permissions": ["storage", "activeTab", "scripting"],
+    "action": {
+        "default_popup":"popup.html"
+    }
+}
