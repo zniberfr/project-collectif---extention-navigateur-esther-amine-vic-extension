@@ -22,5 +22,6 @@
         "32": "/images/pic32.jpeg",
         "48": "/images/pic48.jpeg",
         "128": "/images/pic128.jpeg"
-      }
+      },
+    "options_page": "options.html"
   }

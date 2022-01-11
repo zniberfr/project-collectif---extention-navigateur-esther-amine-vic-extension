@@ -1,3 +1,11 @@
+// Initialize button with user's preferred font
+let changeFont = document.getElementById("changeFont");
+
+chrome.storage.sync.get("font", ({ font }) => {
+  changeFont.style.fontFamily = font;
+  changeFont.innerHTML = font;
+});
+
 // When the button is clicked, inject setPageBackgroundColor into current page
 changeFont.addEventListener("click", async () => {
     let [tab] = await chrome.tabs.query({ active: true, currentWindow: true });
