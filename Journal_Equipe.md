@@ -21,4 +21,4 @@ fait ajd:
 
 Demain : 
 point repartition de tach du groupe 
-definir ce qu'il ya réellement faire
+definir ce qu'il ya réellement faire 
